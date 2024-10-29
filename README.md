@@ -6,10 +6,12 @@
 - native drawer swipe
 - transparent status bar
 - themed bottom bar
-- android back button integration (close drawer / quite)
+- android back button (close drawer / quit app)
 - startup keyboard auto open
 - chat keyboard auto dismiss
 - splash screen
+- page reload button
+- "chatgpt is at capacity" workaround
 
 <div align="center">
 
